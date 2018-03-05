@@ -56,9 +56,9 @@ You tell ``glopen`` the endpoint and temporary directory in a ``~/.glopen`` conf
       "tempdir" : "/home/<username>/tmp"
     }
 
-.. |Version Status| image:: https://pypip.in/v/glopen/badge.png
+.. |Version Status| image:: https://img.shields.io/pypi/v/glopen.svg
    :target: https://pypi.python.org/pypi/glopen/
-.. |Downloads| image:: https://pypip.in/d/glopen/badge.png
+.. |Downloads| image:: https://img.shields.io/pypi/dm/glopen.svg
    :target: https://pypi.python.org/pypi/glopen/
 .. _globussh: https://github.com/maxhutch/glopen
 .. _Globus connect personal: https://www.globus.org/globus-connect-personal
